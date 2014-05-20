@@ -1,0 +1,28 @@
+{
+  "name": "rename-files-to-lowercase",
+  "version": "0.0.1",
+  "description": "rename files in a directory",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/nelsonic/rename-files-to-lowercase.git"
+  },
+  "keywords": [
+    "rename",
+    "files",
+    "to",
+    "lower-case"
+  ],
+  "author": "@nelsonic",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nelsonic/rename-files-to-lowercase/issues"
+  },
+  "homepage": "https://github.com/nelsonic/rename-files-to-lowercase",
+  "dependencies": {
+    "ncp": "^0.5.1"
+  }
+}
